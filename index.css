@@ -1,0 +1,540 @@
+*{
+    margin: 0;
+    border: 0;
+}
+body{
+    background-color:rgba(248, 241, 231, 1);
+    position: relative;
+}
+.demo{
+   
+   height: 100%;
+    width: 500px;
+    border-radius: 8px;
+    background-color:white;
+    margin-top: 70px;
+  margin-left: 150px;
+   
+}
+img{
+    width: 100%;
+    border-radius: 8px 8px 0px 0px;
+}
+button{
+   
+    border:1px solid;
+    border-radius: 25px;
+    color:rgb(80, 35, 20);
+    background-color:white;
+   margin-top: 20px;
+   padding: 10px;
+   width: 300px;
+}
+.cards-demo{
+    padding: 15px 20px;
+}
+.cards-demo h2{
+    color: rgb(80, 35, 20);
+}
+
+.cards-demo p{
+    margin-top: 10px;
+    color: rgb(80, 35, 20);
+}
+
+.dh{
+   width: 520px;
+  
+}
+.demo1{
+   
+    height: 100%;
+     width: 500px;
+     border-radius: 8px;
+     background-color:white;
+     margin-top: 70px;
+     margin-left: 10px;
+    
+ }
+ img{
+     width: 100%;
+     border-radius: 8px 8px 0px 0px;
+ }
+ button{
+    
+     border:1px solid;
+     border-radius: 25px;
+     color:rgb(80, 35, 20);
+     background-color:white;
+    margin-top: 20px;
+    padding: 10px;
+    width: 300px;
+ }
+ .cards-demo1{
+     padding: 15px 20px;
+ }
+ .cards-demo1 h2{
+     color: rgb(80, 35, 20);
+ }
+ 
+ .cards-demo1 p{
+     margin-top: 10px;
+     color: rgb(80, 35, 20);
+ }
+ 
+ .dh1{
+    width: 520px;
+   
+ }
+ .demo2{
+   
+    height: 100%;
+     width: 500px;
+     border-radius: 8px;
+     background-color:white;
+     margin-top: 10px;
+     margin-left: 150px;
+    
+ }
+ img{
+     width: 100%;
+     border-radius: 8px 8px 0px 0px;
+ }
+ button{
+    
+     border:1px solid;
+     border-radius: 25px;
+     color:rgb(80, 35, 20);
+     background-color:white;
+    margin-top: 20px;
+    padding: 10px;
+    width: 300px;
+ }
+ .cards-demo2{
+     padding: 15px 20px;
+ }
+ .cards-demo2 h2{
+     color: rgb(80, 35, 20);
+ }
+ 
+ .cards-demo2 p{
+     margin-top: 10px;
+     color: rgb(80, 35, 20);
+ }
+ 
+ .dh2{
+    width: 520px;
+   
+ }
+ .demo3{
+   
+    height: 100%;
+     width: 500px;
+     border-radius: 8px;
+     background-color:white;
+   margin-top: 10px;
+  margin-left: 10px;
+    
+ }
+ img{
+     
+     border-radius: 8px 8px 0px 0px;
+ }
+ button{
+    margin-top: 10px;
+     border:1px solid;
+     border-radius: 25px;
+     color:rgb(80, 35, 20);
+     background-color:white;
+}
+ .cards-demo3{
+     padding: 15px 20px;
+ }
+ .cards-demo3 h2{
+     color: rgb(80, 35, 20);
+     padding-bottom: 10px;
+ }
+ 
+ .cards-demo3 p{
+     
+     color: rgb(80, 35, 20);
+     
+ }
+ 
+ .dh3{
+   width: 500px; 
+   
+ }
+ .demo4{
+   
+    height: 100%;
+     width: 500px;
+     border-radius: 8px;
+     background-color:white;
+     margin-top: 10px;
+     margin-left: 150px;
+    
+ }
+ img{
+     width: 100%;
+     border-radius: 8px 8px 0px 0px;
+ }
+ button{
+    
+     border:1px solid;
+     border-radius: 25px;
+     color:rgb(80, 35, 20);
+     background-color:white;
+    margin-top: 20px;
+    padding: 10px;
+    width: 300px;
+ }
+ .cards-demo4{
+     padding: 15px 20px;
+ }
+ .cards-demo4 h2{
+     color: rgb(80, 35, 20);
+ }
+ 
+ .cards-demo4 p{
+     margin-top: 10px;
+     color: rgb(80, 35, 20);
+ }
+ 
+ .dh4{
+    width: 520px;
+   
+ }
+ .demo5{
+   
+    height: 100%;
+     width: 500px;
+     border-radius: 8px;
+     background-color:white;
+     margin-top: 10px;
+     margin-left: 10px;
+    
+ }
+ img{
+     width: 100%;
+     border-radius: 8px 8px 0px 0px;
+ }
+ button{
+    
+     border:1px solid;
+     border-radius: 25px;
+     color:rgb(80, 35, 20);
+     background-color:white;
+    margin-top: 20px;
+    padding: 10px;
+    width: 300px;
+ }
+ .cards-demo5{
+     padding: 15px 20px;
+ }
+ .cards-demo5 h2{
+     color: rgb(80, 35, 20);
+ }
+ 
+ .cards-demo5 p{
+     margin-top: 10px;
+     color: rgb(80, 35, 20);
+ }
+ 
+ .dh5{
+    width: 520px;
+   
+ }
+ .demo0{
+
+    height: 100%;
+    width: 100%;
+    float: right;
+    display: inline-block;
+    padding: 10px;
+    padding-right: 100px;
+ }
+ #su{
+    color:rgb(80, 35, 20) ;
+   
+    font-size: 60px;
+   /* margin-left:-30px; */
+   padding-right: 10px;
+   font-weight: bold;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+h1{
+    font: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#su sup{
+    font-size: 40px;
+   
+}
+ .heading{
+    
+    width: 50%;
+    padding-left: 170px;
+ }
+ #but{
+   background-color:rgb(214, 35, 0);
+   color: #fff;
+   margin-right: 10px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   border-radius: 30px;
+ }
+ #but i{
+    padding-right: 10px;
+ }
+ #bike i{
+    padding-right: 10px;
+ }
+ #bike{
+    color:rgb(80, 35, 20);
+    padding-top: 20px;
+   padding-bottom: 20px;
+   border-radius: 30px;
+    font:bolder;
+    background-color:rgba(248, 241, 231, 1) ;
+ }
+ #bike:hover{
+    background-color: lightgray;
+ }
+ #card{
+
+    background-color: #eee8de;
+    margin-top: 80px;
+}
+.teja{
+    width: 307px;
+    height: 395px;
+    margin-left: 100px;
+}
+#terms{
+    background-color: #502314;
+    color: white;
+    height: 70px;
+    width: 100%;  
+}
+#term{
+    padding: 30px 90px;
+     margin-left: 300px;
+ }
+ #font{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3rem;
+    color: #502314;
+    width: 50%;
+    padding-left: 50px;
+    margin-top: 40px;
+    
+}
+#para{
+  
+   padding-left: 50px;
+   width: 80%;
+  padding-bottom: 100px;
+  margin-top: 10px;
+  color:#502314;
+}
+#images{
+    width: 240px;
+    height: 100px;
+    display: inline-block;
+
+    
+   
+}
+#img2{
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+   
+}
+.imge{
+  
+  margin-top: -20px;
+  padding-top: 50px;
+  padding-left: 50px;
+  
+}
+.teja{
+    width: 350px;
+    height: 350px;
+   margin-top: -100px;
+    padding-left: 100px;
+   
+}
+#terms{
+    background-color: #502314;
+    color: white;
+  height: 80px;
+    text-align: center;
+    padding-top: 15px;
+    
+}
+#terms a{
+    color: #fff;
+}
+
+ol{
+   background-color: rgba(248, 241, 231, 1);
+    height: 100px;
+    /* width: 1000%; */
+}
+ol li{
+  
+    display: inline-block;
+    margin-top: 10px;
+    /* padding: 5px; */
+}
+ol li a{
+    color:#502314;
+    text-decoration: none;
+    /* margin-right: 150px; */
+    text-transform: capitalize;
+    margin-left: 230px;
+    /* font-size: 12px; */
+    /* width: 100%; */
+   
+    
+}
+.header{
+    font-size: 2rem;
+    display: inline;
+    padding-left: 150px;
+   
+}
+.theelines{
+    
+    padding-left: 10px;
+}
+.kumari{
+    width: 10px;
+    padding: 1px;
+    margin: 1px;
+  
+   
+    padding-left: 50px;
+}
+
+
+#srilatha{
+    width: 100%;
+   background-color: rgba(248, 241, 231, 1);
+    position: fixed;
+    border-bottom:1px solid #502314;
+}
+#pdd{
+    margin-top: 100px;
+}
+#menu a{
+   color: #502314;
+    padding-left: 130px;
+}
+
+#bk {
+   
+    padding-left: 350px;
+}
+#bk a{
+    color: #502314;
+    text-decoration: none;
+}
+
+
+#icon{
+   
+    padding-left: 250px;
+    
+}
+#icon a{
+    color: #502314;
+}
+.bot {
+    color: #fff;
+    background-color: rgb(214, 35, 0);
+    width: 110px;
+   margin-top: 5px;
+   margin: 10px 15px;
+   padding: 8px 15px;
+
+
+}
+.bot:hover{
+    background-color: brown;
+}
+#but:hover{
+    background-color: brown;
+}
+.link{
+    color: #fff;
+    text-decoration: none;
+}
+
+.fa-bag-shopping {
+    padding-right: 4px;
+    color: white;
+    
+}
+
+.paragraph1{
+    
+    padding-left: 40px;
+   
+   width: 40px;
+}
+.fa-house{
+   
+    margin-left: 50px;
+}
+.fa-bars{
+    margin-left: 50px;
+   
+}
+.fa-tag{
+    margin-left: 50px;
+   
+}
+.fa-crown{
+    margin-left: 50px;
+    
+}
+.paragraph2{
+    padding-left: 40px;
+    width: 40px;
+}
+.paragraph3{
+    padding-left: 40px;
+    width: 40px;
+}
+.paragraph4{
+    padding-left: 40px;
+    width: 40px;
+}
+footer{
+    border-top: 3px solid white;
+    height: 20px;
+    width:100% ;
+    position: fixed;
+    bottom: 30px;
+}
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+ 
+ 
+    
+
